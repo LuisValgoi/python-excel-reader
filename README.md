@@ -8,3 +8,6 @@ This repo basically:
 # Console
 - when you run this project, a `fileName` will be requested
 - when you type it, a new file with the previous logic will be generated
+
+# Dependency
+https://openpyxl.readthedocs.io/en/stable/usage.html
